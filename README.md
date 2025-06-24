@@ -12,21 +12,7 @@ This project demonstrates how to run multiple microservices using Docker Compose
 
 ---
 
-## 📁 Project Structure
 
-.
-├── docker-compose.yml
-├── nginx
-│   ├── Dockerfile
-│   └── nginx.conf
-├── service_1
-│   ├── Dockerfile
-│   └── main.go
-├── service_2
-│   ├── Dockerfile
-│   └── app.py
-└── README.md
-.
 ## 🧪 How to Run This Project
 Run the system with:
 
