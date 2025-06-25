@@ -107,3 +107,15 @@ Each service has its own Dockerfile and runs in its own container. Nginx reverse
 
 A simple test.sh script is included to verify both services are up and responding. This allows for quick functional checks after deployment.
 
+
+## 📽️ Project Demo
+
+
+Watch the project in action here: https://surl.li/pjtftk
+
+
+
+This video demonstrates the setup, configuration, and working of the project, including the NGINX integration and service routing.
+
+
+
